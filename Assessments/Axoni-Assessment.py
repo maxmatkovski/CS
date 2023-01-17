@@ -58,4 +58,4 @@ Berlin -> Paris -> Amsterdam
 Paris -> London -> Egypt
 """
 
-print(shortest_paths(flights, 'Iceland', 'Egypt')) # 'none'
+print(shortest_paths(flights, 'Amsterdam', 'London')) # 'none'
